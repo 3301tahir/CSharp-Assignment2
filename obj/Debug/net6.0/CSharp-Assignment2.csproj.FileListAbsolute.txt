@@ -1,0 +1,5 @@
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.csproj.AssemblyReference.cache
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.AssemblyInfoInputs.cache
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.AssemblyInfo.cs
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.csproj.CoreCompileInputs.cache
