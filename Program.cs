@@ -1,17 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int size = 10;
-int[] array = new int[size];
-Random _rand = new Random();
+Console.WriteLine("A C# Program that generates an array of random 2-digit integers and shuffles them.\n");
+Console.Write("Enter size of generated array: ");
 
+int size = int.Parse(Console.ReadLine());
+int[] array = new int[size];
+
+
+// Populate generated array with random integers from 10 to 99
+Random _rand = new Random();
 for (int i = 0; i < size; i++)
     array[i] = _rand.Next(10, 100);
 
+Console.Write("Generated array: ");
 foreach (int i in array)
     Console.Write(i.ToString() + " ");
 Console.WriteLine();
 
-for(int i = size - 1; i > 0; i--)
+// Fisher-Yates Shuffle Algorithm
+for (int i = size - 1; i > 0; i--)
 {
     int j = _rand.Next(0, i + 1);
 
@@ -20,6 +27,7 @@ for(int i = size - 1; i > 0; i--)
     array[j] = temp;
 }
 
+Console.Write("Shuffled array: ");
 foreach (int i in array)
     Console.Write(i.ToString() + " ");
 Console.WriteLine();
