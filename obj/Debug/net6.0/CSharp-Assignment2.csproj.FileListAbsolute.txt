@@ -3,3 +3,13 @@ C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Ass
 C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.AssemblyInfoInputs.cache
 C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.AssemblyInfo.cs
 C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\bin\Debug\net6.0\CSharp-Assignment2.exe
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\bin\Debug\net6.0\CSharp-Assignment2.deps.json
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\bin\Debug\net6.0\CSharp-Assignment2.runtimeconfig.json
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\bin\Debug\net6.0\CSharp-Assignment2.dll
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\bin\Debug\net6.0\CSharp-Assignment2.pdb
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.dll
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\refint\CSharp-Assignment2.dll
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.pdb
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\CSharp-Assignment2.genruntimeconfig.cache
+C:\Users\cyberhelmet\source\repos\CSharp-Assignment2\obj\Debug\net6.0\ref\CSharp-Assignment2.dll
