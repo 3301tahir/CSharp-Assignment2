@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("A C# Program that generates an array of random 2-digit integers and shuffles them.\n");
+﻿Console.WriteLine("A C# Program that generates an array of random 2-digit integers and shuffles them.\n");
 Console.Write("Enter size of generated array: ");
 
 int size = int.Parse(Console.ReadLine());
