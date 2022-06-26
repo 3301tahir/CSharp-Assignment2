@@ -1,9 +1,16 @@
 ﻿Console.WriteLine("A C# Program that generates an array of random 2-digit integers and shuffles them.\n");
+
 Console.Write("Enter size of generated array: ");
+int size;
+do
+{
+    Console.Write("Enter size of generated array: ");
+    size = int.Parse(Console.ReadLine());
+    if (size < 1)
+        Console.WriteLine("Size must be greater than 0.");
+} while (size < 1);
 
-int size = int.Parse(Console.ReadLine());
 int[] array = new int[size];
-
 
 // Populate generated array with random integers from 10 to 99
 Random _rand = new Random();
@@ -15,7 +22,6 @@ foreach (int i in array)
     Console.Write(i.ToString() + " ");
 Console.WriteLine();
 
-// Fisher-Yates Shuffle Algorithm
 for (int i = size - 1; i > 0; i--)
 {
     int j = _rand.Next(0, i + 1);
